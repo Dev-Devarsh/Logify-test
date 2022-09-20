@@ -65,3 +65,4 @@ Project Link: [https://github.com/eric-ricky/sqaub-landing-page](https://github.
 [linkedin-url]: linkedin.com/in/rick-otieno-7532b01b9
 [product-preview]: preview.jpeg
 # Logify-test
+# Logify-test
